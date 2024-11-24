@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.rc": "c",
+        "windows.h": "c",
+        "stdio.h": "c",
+        "_mingw.h": "c",
+        "sdkddkver.h": "c",
+        "resources.h": "c"
+    },
+    "makefile.configureOnOpen": false
+}
