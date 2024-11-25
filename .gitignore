@@ -1,1 +1,5 @@
 /target
+
+resources/jisho.res
+resources/libjisho.a
+src/resources.rs
